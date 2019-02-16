@@ -1,0 +1,17 @@
+{
+    "name": "pfqui/test1",
+    "type": "phpunit",
+    "require": {
+        "phpunit/phpunit": "^8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.0"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Franz Quispe",
+            "email": "fqq@njit.edu"
+        }
+    ]
+}
