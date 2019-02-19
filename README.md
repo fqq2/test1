@@ -25,18 +25,16 @@ public: The function can be used outside the class.
 
 function: Set of instructions that can be reused in other parts of the code.
 
-final:
+final: prevents child classes from overriding a method by prefixing the definition with final.
 
-extends:
+extends: OOP principle called inheritance
 
-return:
+return: returns program control to the calling module.
 
-static:
+static: Declaring class properties or methods as static makes them accessible without needing an instantiation of the class. 
 
-use:
+use: imports the specified namespace (or class) to the current scope.
 
-new:
+new: a new object is created
 
-$ :
-
-int:
+int: integers
